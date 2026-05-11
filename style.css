@@ -1,0 +1,44 @@
+.nav ul{
+    display:flex;
+    text-align:center;
+    width:50%;
+    align-items:center;
+    height:100%;
+    justify-content:space-around;
+    color:aliceblue;
+    margin:auto;
+}
+.nav ul li a{
+    text-decoration:none;
+    color:aliceblue;
+}
+.nav{
+    background-color:black;
+    width:100%;
+    height:10vh;
+}
+.menu img{
+    width:50%;
+}
+.menu{
+    background-color:black;
+    color:white;
+    display:flex;
+    text-align:right;
+    align-items:center;
+}
+.text{
+    text-align:center;
+}
+.learn-btn{
+    border: 2px solid white;
+    color:white;
+    background:black;
+    border-radius: 100px;
+    height: 50px;
+    width: 200px;
+}
+.learn-btn:hover{
+    background:rgb(69, 66, 66);
+    cursor: pointer;
+}   
