@@ -107,3 +107,14 @@
 .menu-v2 img {
   width: 30%;
 }
+.personalmaid img {
+  width: 50%;
+}
+.personalmaid {
+  background-color: black;
+  color: white;
+  display: flex;
+  text-align: right;
+  align-items: center;
+  height: 75vh;
+}
